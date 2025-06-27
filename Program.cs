@@ -1,9 +1,11 @@
+using FluentValidation;
 using Microsoft.EntityFrameworkCore;
 using Pakuayb.AutoMapper;
 using Pakuayb.Dtos;
 using Pakuayb.Models;
 using Pakuayb.Repository;
 using Pakuayb.Services;
+using Pakuayb.Validator;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,8 +29,11 @@ builder.Services.AddAutoMapper(typeof(MappingProfile));
 //Repository
 builder.Services.AddScoped<IRepository<Alumno>, AlumnosRepository>();
 //Servicio
-builder.Services.AddKeyedScoped<IBaseServices<AlumnoDto>, AlumnosService>("AlumnosService");
+builder.Services.AddKeyedScoped<IBaseServices<AlumnoDto, AlumnoInsertDto, AlumnoUpdateDto>, AlumnosService>("AlumnosService");
 
+//Validaciones
+builder.Services.AddScoped<IValidator<AlumnoInsertDto>, AlumnoInsertValidator>();
+builder.Services.AddScoped<IValidator<AlumnoUpdateDto>, AlumnoUpdateValidator>();
 
 var app = builder.Build();
 

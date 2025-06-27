@@ -10,5 +10,6 @@ namespace Pakuayb.Models
 
         public DbSet<Alumno> Alumnos { get; set; }
 
+        
     }
 }

@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using System.Linq.Expressions;
+using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using Pakuayb.Models;
 
 namespace Pakuayb.Repository
@@ -19,18 +21,21 @@ namespace Pakuayb.Repository
             return alumnos;
         }
 
-        public Task<Alumno> GetById(int id)
+        public async Task<Alumno> GetById(int id)
         {
-            throw new NotImplementedException();
+            var alumno = await _context.Alumnos.FindAsync(id);
+            return alumno;
         }
-        public Task Create(Alumno entity)
+        public async Task Create(Alumno entity)
         {
-            throw new NotImplementedException();
+            var alumno = await _context.AddAsync(entity);
+            
         }
 
         public void Update(Alumno entity)
         {
-            throw new NotImplementedException();
+            _context.Attach(entity); //se posiciona
+            _context.Entry(entity).State = EntityState.Modified; //modifica
         }
 
         public void Delete(int id)
@@ -38,12 +43,12 @@ namespace Pakuayb.Repository
             throw new NotImplementedException();
         }
 
+        public Task SaveChanges() => _context.SaveChangesAsync(); //guardar cambios
 
-        public void SaveChanges()
+        public async Task<bool> Exists(Expression<Func<Alumno, bool>> filter)
         {
-            throw new NotImplementedException();
+            var encontrado = await _context.Alumnos.Where(filter).AnyAsync();
+            return encontrado;
         }
-
-
     }
 }

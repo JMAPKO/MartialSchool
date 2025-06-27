@@ -10,6 +10,13 @@ namespace Pakuayb.AutoMapper
         {
             CreateMap<Alumno, AlumnoDto>()
                 .ReverseMap();
+
+            CreateMap<AlumnoInsertDto, Alumno>()
+                .ReverseMap();
+
+            CreateMap<AlumnoUpdateDto, Alumno>()
+                .ReverseMap();
+
         }
     }
 }

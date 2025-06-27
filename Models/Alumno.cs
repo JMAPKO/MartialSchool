@@ -8,11 +8,11 @@ namespace Pakuayb.Models
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
-        public string Nombre { get; set; }
-        public int Edad { get; set; }
+        public string? Nombre { get; set; }
+        public int? Edad { get; set; }
         
         [Column(TypeName = "date")]
-        public DateOnly FechaNacimiento { get; set; }
+        public DateOnly? FechaNacimiento { get; set; }
         
         [Column(TypeName = "date")]
         public DateTime FechaRegistro { get; set; } = DateTime.Now.Date;
