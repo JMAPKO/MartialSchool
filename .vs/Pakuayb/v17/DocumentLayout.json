@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,56 +11,16 @@
       "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:services\\alumnosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\repository\\alumnosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:repository\\alumnosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\services\\ibaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:services\\ibaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\dtos\\alumnoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:dtos\\alumnoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\repository\\alumnosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:repository\\alumnosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\dtos\\alumnoinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:dtos\\alumnoinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\dtos\\alumnodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:dtos\\alumnodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\validator\\alumnoupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:validator\\alumnoupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\validator\\alumnoinsertvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:validator\\alumnoinsertvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\migrations\\20250624205857_dateonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:migrations\\20250624205857_dateonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\migrations\\20250626145019_migration-add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:migrations\\20250626145019_migration-add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|c:\\users\\juanc\\onedrive\\escritorio\\programacion\\c#\\proyectos\\pakuayb\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146DC38F-AAC9-4AA9-A5BC-065186816350}|Pakuayb.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,103 +46,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20250626145019_Migration-Add.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Migrations\\20250626145019_Migration-Add.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250626145019_Migration-Add.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Migrations\\20250626145019_Migration-Add.cs",
-              "RelativeToolTip": "Migrations\\20250626145019_Migration-Add.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AlumnosController.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Controllers\\AlumnosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlumnosController.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Controllers\\AlumnosController.cs",
+              "RelativeToolTip": "Controllers\\AlumnosController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T14:50:19.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AlumnoUpdateValidator.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Validator\\AlumnoUpdateValidator.cs",
-              "RelativeDocumentMoniker": "Validator\\AlumnoUpdateValidator.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Validator\\AlumnoUpdateValidator.cs",
-              "RelativeToolTip": "Validator\\AlumnoUpdateValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T20:33:28.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AlumnoInsertValidator.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Validator\\AlumnoInsertValidator.cs",
-              "RelativeDocumentMoniker": "Validator\\AlumnoInsertValidator.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Validator\\AlumnoInsertValidator.cs",
-              "RelativeToolTip": "Validator\\AlumnoInsertValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T20:30:13.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AlumnoUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Dtos\\AlumnoUpdateDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\AlumnoUpdateDto.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Dtos\\AlumnoUpdateDto.cs",
-              "RelativeToolTip": "Dtos\\AlumnoUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T20:11:53.968Z",
+              "WhenOpened": "2025-06-30T14:44:38.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AlumnosService.cs",
               "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Services\\AlumnosService.cs",
               "RelativeDocumentMoniker": "Services\\AlumnosService.cs",
               "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Services\\AlumnosService.cs",
               "RelativeToolTip": "Services\\AlumnosService.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAkwE8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T19:23:36.18Z",
+              "WhenOpened": "2025-06-30T14:43:14.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Repository\\IRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Repository\\IRepository.cs",
-              "RelativeToolTip": "Repository\\IRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T18:35:42.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AlumnoInsertDto.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Dtos\\AlumnoInsertDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\AlumnoInsertDto.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Dtos\\AlumnoInsertDto.cs",
-              "RelativeToolTip": "Dtos\\AlumnoInsertDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T18:35:06.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "IBaseServices.cs",
               "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Services\\IBaseServices.cs",
               "RelativeDocumentMoniker": "Services\\IBaseServices.cs",
               "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Services\\IBaseServices.cs",
               "RelativeToolTip": "Services\\IBaseServices.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:02:18.281Z",
+              "WhenOpened": "2025-06-30T14:43:11.57Z",
               "EditorCaption": ""
             },
             {
@@ -197,95 +91,23 @@
               "RelativeDocumentMoniker": "Repository\\AlumnosRepository.cs",
               "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Repository\\AlumnosRepository.cs",
               "RelativeToolTip": "Repository\\AlumnosRepository.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAxwDIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T15:37:49.187Z",
+              "WhenOpened": "2025-06-30T14:42:49.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20250624205857_dateOnly.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Migrations\\20250624205857_dateOnly.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250624205857_dateOnly.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Migrations\\20250624205857_dateOnly.cs",
-              "RelativeToolTip": "Migrations\\20250624205857_dateOnly.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T20:58:57.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SchoolContext.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Models\\SchoolContext.cs",
-              "RelativeDocumentMoniker": "Models\\SchoolContext.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Models\\SchoolContext.cs",
-              "RelativeToolTip": "Models\\SchoolContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T20:52:58.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Alumno.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Models\\Alumno.cs",
-              "RelativeDocumentMoniker": "Models\\Alumno.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Models\\Alumno.cs",
-              "RelativeToolTip": "Models\\Alumno.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwA4AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T20:30:32.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AlumnoDto.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Dtos\\AlumnoDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\AlumnoDto.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Dtos\\AlumnoDto.cs",
-              "RelativeToolTip": "Dtos\\AlumnoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T20:21:40.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AlumnosController.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Controllers\\AlumnosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AlumnosController.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Controllers\\AlumnosController.cs",
-              "RelativeToolTip": "Controllers\\AlumnosController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDMAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T20:16:01.102Z",
+              "WhenOpened": "2025-06-30T14:42:45.604Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwCUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T20:09:51.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\AutoMapper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "AutoMapper\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\AutoMapper\\MappingProfile.cs",
-              "RelativeToolTip": "AutoMapper\\MappingProfile.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T20:07:49.667Z"
             }
           ]
         }

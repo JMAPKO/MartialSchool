@@ -15,5 +15,6 @@
 
         //Validaciones - Errores
         Task<Boolean> Validacion(TI entity);
+        Task<Boolean> Validacion(TU entity);
     }
 }

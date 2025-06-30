@@ -17,6 +17,10 @@ namespace Pakuayb.AutoMapper
             CreateMap<AlumnoUpdateDto, Alumno>()
                 .ReverseMap();
 
+            CreateMap<Alumno, AlumnoUpdateDto>().ForMember(
+                dto => dto.id,
+                alumno => alumno.MapFrom(alu => alu.Id));
+                
         }
     }
 }

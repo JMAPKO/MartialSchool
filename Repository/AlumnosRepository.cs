@@ -45,6 +45,7 @@ namespace Pakuayb.Repository
 
         public Task SaveChanges() => _context.SaveChangesAsync(); //guardar cambios
 
+        //control de existencia
         public async Task<bool> Exists(Expression<Func<Alumno, bool>> filter)
         {
             var encontrado = await _context.Alumnos.Where(filter).AnyAsync();

@@ -70,6 +70,12 @@ namespace Pakuayb.Controllers
                 return BadRequest(validator.Errors);
             }
 
+            if ( !await _services.Validacion(alumno))
+            {
+                Console.WriteLine("Error en el update");
+               return NotFound(_services.Errores);
+            }
+
              var alu = await _services.Update(id,alumno);
              return alu == null ? NotFound() : Ok(alu);
 

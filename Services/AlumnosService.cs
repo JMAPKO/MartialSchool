@@ -87,5 +87,19 @@ namespace Pakuayb.Services
 
             return true;
         }
+
+        public async Task<bool> Validacion(AlumnoUpdateDto entity)
+        {
+           if (await _repository.Exists(alu => 
+           entity.Nombre == alu.Nombre
+           && entity.FechaNacimiento == alu.FechaNacimiento
+           && entity.id != alu.Id))
+            {
+                Errores.Add("Error para actualizar, el usuario ya existe en cuenta");
+                return false;
+            }
+
+            return true;
+        }
     }
 }
