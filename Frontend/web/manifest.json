@@ -1,11 +1,11 @@
 {
-    "name": "pakua_yb",
-    "short_name": "pakua_yb",
+    "name": "pakuayb",
+    "short_name": "pakuayb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "proyecto personal - crud",
+    "description": "Proyecto escuela - backend .NET",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
