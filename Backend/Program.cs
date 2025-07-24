@@ -35,6 +35,24 @@ builder.Services.AddKeyedScoped<IBaseServices<AlumnoDto, AlumnoInsertDto, Alumno
 builder.Services.AddScoped<IValidator<AlumnoInsertDto>, AlumnoInsertValidator>();
 builder.Services.AddScoped<IValidator<AlumnoUpdateDto>, AlumnoUpdateValidator>();
 
+//Cors
+builder.Services.AddCors(options =>
+    {
+        //politica de Cors con nombre Unico
+        options.AddPolicy("OrigenEspecifico",
+            policy =>
+                {
+                    //Especifica origenes permitidos.
+                    policy.WithOrigins(
+                        "http://localhost:64071", // Consola
+                        "https://10.0.2.2:64071", // Another allowed origin
+                        "http://192.168.100.71:64071"
+                    ).
+                    AllowAnyHeader()
+                    .AllowAnyMethod();
+                });
+    });
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -45,6 +63,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors("OrigenEspecifico"); // Aplicar la política de CORS
 
 app.UseAuthorization();
 

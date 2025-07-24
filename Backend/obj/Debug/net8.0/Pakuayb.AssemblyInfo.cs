@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pakuayb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a142eb03b11abb8cf0c5f4cc2ce34c7134cf4c6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b57fc3a2720ca5a3aac147cdad9d1f68bfdf7f56")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pakuayb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pakuayb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

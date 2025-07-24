@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Pakuayb.csproj": {}
+    "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Backend\\Pakuayb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Pakuayb.csproj": {
+    "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Backend\\Pakuayb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Pakuayb.csproj",
+        "projectUniqueName": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Backend\\Pakuayb.csproj",
         "projectName": "Pakuayb",
-        "projectPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Pakuayb.csproj",
+        "projectPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Backend\\Pakuayb.csproj",
         "packagesPath": "C:\\Users\\juanc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\obj\\",
+        "outputPath": "C:\\Users\\juanc\\OneDrive\\Escritorio\\programacion\\C#\\proyectos\\Pakuayb\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
