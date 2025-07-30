@@ -46,7 +46,8 @@ builder.Services.AddCors(options =>
                     policy.WithOrigins(
                         "http://localhost:64071", // Consola
                         "https://10.0.2.2:64071", // Another allowed origin
-                        "http://192.168.100.71:64071"
+                        "http://192.168.100.71:64071",
+                        "http://localhost:5215" // Mi propia ip
                     ).
                     AllowAnyHeader()
                     .AllowAnyMethod();
