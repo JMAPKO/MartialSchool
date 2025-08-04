@@ -38,20 +38,31 @@ builder.Services.AddScoped<IValidator<AlumnoUpdateDto>, AlumnoUpdateValidator>()
 //Cors
 builder.Services.AddCors(options =>
     {
+        /*
         //politica de Cors con nombre Unico
         options.AddPolicy("OrigenEspecifico",
             policy =>
                 {
                     //Especifica origenes permitidos.
                     policy.WithOrigins(
-                        "http://localhost:64071", // Consola
-                        "https://10.0.2.2:64071", // Another allowed origin
-                        "http://192.168.100.71:64071",
-                        "http://localhost:5215" // Mi propia ip
+                        "http://localhost:63336",   // Para Flutter en navegador web o emulador iOS
+                        "http://10.0.2.2:63336",    // Para Flutter en emulador Android
+                        "http://localhost:5215"     // El puerto de tu propia API
                     ).
                     AllowAnyHeader()
                     .AllowAnyMethod();
                 });
+        */
+
+        // Define una política que permite CUALQUIER ORIGEN
+        // ¡ESTO ES SOLO PARA DESARROLLO!
+        options.AddPolicy("DevelopmentCorsPolicy",
+            policy =>
+            {
+                policy.AllowAnyOrigin()
+                      .AllowAnyHeader()
+                      .AllowAnyMethod();
+            });
     });
 
 var app = builder.Build();
