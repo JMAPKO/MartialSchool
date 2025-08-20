@@ -56,7 +56,7 @@ builder.Services.AddCors(options =>
 
         // Define una política que permite CUALQUIER ORIGEN
         // ¡ESTO ES SOLO PARA DESARROLLO!
-        options.AddPolicy("DevelopmentCorsPolicy",
+        options.AddPolicy("CorsDesarrollo",
             policy =>
             {
                 policy.AllowAnyOrigin()
@@ -76,7 +76,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseCors("OrigenEspecifico"); // Aplicar la política de CORS
+//app.UseCors("OrigenEspecifico"); // Aplicar la política de CORS
+app.UseCors("CorsDesarrollo"); 
 
 app.UseAuthorization();
 
